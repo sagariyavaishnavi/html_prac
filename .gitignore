@@ -1,0 +1,43 @@
+# Operating system files
+/.DS_Store
+/Thumbs.db
+
+# Node.js
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+
+# IDE files
+/.idea/
+/.vscode/
+
+# Text editors
+/.project
+/.classpath
+/.settings/
+
+# Logs
+/logs/
+
+# Build files
+/dist/
+/build/
+
+# Test results
+/test-results/
+
+# IDE specific files
+# Eclipse
+/.metadata/
+
+# Sublime Text
+/.DS_Store
+/.sublime-project
+/.sublime-workspace
+
+# Vim
+/.swp
+/.tmp
+
+# Visual Studio Code
+/.vscode/
